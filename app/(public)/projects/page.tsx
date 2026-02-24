@@ -1,7 +1,7 @@
 import { ProjectsPageContent } from "@/components/public/projects/projects-page-content";
 import type { Metadata } from "next";
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aarongeorge.dev';
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aaxon.in';
 
 export const metadata: Metadata = {
   title: "Projects",

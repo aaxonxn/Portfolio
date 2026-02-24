@@ -56,7 +56,7 @@ Project layout (high level)
 
 ## Maintainer
 
-- Aaron George — [GitHub](https://github.com/aaxonxn) · [LinkedIn](https://linkedin.com/in/aarongeorge)
+- Aaron George — [GitHub](https://github.com/aaxonxn) · [LinkedIn](https://linkedin.com/in/aaxon)
 
 ## Contributing
 

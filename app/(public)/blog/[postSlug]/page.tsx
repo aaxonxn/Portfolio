@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     };
   }
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aarongeorge.dev';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aaxon.in';
   const postUrl = `${baseUrl}/blog/${post.slug}`;
   const ogImageUrl = `${baseUrl}/og-images/${post.slug}.png`;
 
@@ -72,7 +72,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
     notFound();
   }
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aarongeorge.dev';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://aaxon.in';
   const structuredData = generateBlogPostStructuredData(post, baseUrl);
 
   return (

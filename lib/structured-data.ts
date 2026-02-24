@@ -58,11 +58,11 @@ export function generatePersonStructuredData() {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Aaron George',
-    url: 'https://aarongeorge.dev',
-    image: 'https://aarongeorge.dev/developer-portrait.png',
+    url: 'https://aaxon.in',
+    image: 'https://aaxon.in/developer-portrait.png',
     sameAs: [
       'https://github.com/aaxonxn',
-      'https://linkedin.com/in/aarongeorge',
+      'https://linkedin.com/in/aaxon',
     ],
     jobTitle: 'AI & Computer Science Student',
     worksFor: {

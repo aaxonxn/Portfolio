@@ -83,7 +83,7 @@ export function WorkbenchPageContent() {
                   <div className="h-3 w-3 rounded-full bg-yellow-500/60 transition-colors hover:bg-yellow-500 cursor-pointer" />
                   <div className="h-3 w-3 rounded-full bg-primary/60 transition-colors hover:bg-primary cursor-pointer" />
                 </div>
-                <span className="ml-4 font-mono text-xs text-muted-foreground truncate">~/aarongeorge/active</span>
+                <span className="ml-4 font-mono text-xs text-muted-foreground truncate">~/aaron/active</span>
                 <div className="ml-auto flex items-center gap-2 text-muted-foreground">
                   <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse" />
                   <span className="font-mono text-xs">live</span>
