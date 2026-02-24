@@ -62,7 +62,7 @@ export function generatePersonStructuredData() {
     image: 'https://aaxon.in/developer-portrait.png',
     sameAs: [
       'https://github.com/aaxonxn',
-      'https://linkedin.com/in/aaxon',
+      'https://www.linkedin.com/in/aaxonxn/',
     ],
     jobTitle: 'AI & Computer Science Student',
     worksFor: {

@@ -18,7 +18,7 @@ const navItems = [
 
 const socialLinks = [
   { label: "GitHub", href: "https://github.com/aaxonxn", icon: Github },
-  { label: "LinkedIn", href: "https://linkedin.com/in/aaxon", icon: Linkedin },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/aaxonxn/", icon: Linkedin },
 ]
 
 export function Header() {
@@ -54,9 +54,9 @@ export function Header() {
               <span className="glitch">{"⚡"}</span>
             </div>
             <span className="font-mono text-sm tracking-tight">
-              AARON
+              AAXON
               <span className="bg-gradient-to-l from-primary/50 to-accent bg-clip-text text-transparent font-semibold">
-                .DEV
+                .IN
               </span>
             </span>
           </Link>
